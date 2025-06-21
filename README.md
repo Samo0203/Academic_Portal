@@ -28,7 +28,7 @@ A web-based application for universities to manage and display academic calendar
 
 ## 🛠 Technologies
 
-- Frontend: HTML, CSS
+- Frontend: HTML, CSS, JavaScript
 - Backend: PHP
 - Database: MySQL
 - Server: XAMPP
@@ -64,24 +64,24 @@ Password: admin123
 ---
 ## 📁 Folder Structure
 
-academic-calendar-notice-board/
-│
-├── config.php
-├── login.php
-├── register.php
-├── dashboard.php
-├── calendar.php
-├── notices.php
-├── users.php
-├── logout.php
-├── style.css
-├── upload/         ← Notice attachments
+academic-calendar-notice-board/ <br>
+│ <br>
+├── config.php <br>
+├── login.php <br>
+├── register.php <br>
+├── dashboard.php <br>
+├── calendar.php <br>
+├── notices.php <br>
+├── users.php <br>
+├── logout.php <br>
+├── style.css <br>
+├── upload/         ← Notice attachments <br>
 └── academic_portal.sql
 
 ---
 ## 🧑‍💻 Credits
 
 Developed by:
-IT Undergraduate Students (Group 10 - 2021/2022 Batch)
-University of Vavuniya
+IT Undergraduate Students (Group 10 - 2021/2022 Batch) <br>
+University of Vavuniya <br>
 For academic and educational purposes.
