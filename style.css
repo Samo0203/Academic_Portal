@@ -1,0 +1,106 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.register-container {
+  background: white;
+  padding: 30px;
+  width: 100%;
+  max-width: 400px;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
+
+.register-form h2 {
+  color: maroon;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.register-form label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.register-form input,
+.register-form select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  transition: all 0.3s ease;
+}
+
+.register-form input:focus,
+.register-form select:focus {
+  outline: none;
+  border-color: maroon;
+  box-shadow: 0 0 5px rgba(128, 0, 0, 0.3);
+}
+
+.register-form button {
+  width: 100%;
+  padding: 10px;
+  background-color: maroon;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.register-form button:hover {
+  background-color: #800000;
+}
+
+.message {
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid transparent;
+}
+
+.message.success {
+  color: green;
+  background-color: #e6ffed;
+  border-color: #8bc34a;
+}
+
+.message.error {
+  color: red;
+  background-color: #ffe6e6;
+  border-color: #f44336;
+}
+
+.login-link {
+  text-align: center;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.login-link a {
+  color: maroon;
+  text-decoration: none;
+}
+
+a {
+  color: maroon;
+  text-decoration: none;
+}
+
