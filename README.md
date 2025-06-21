@@ -34,3 +34,49 @@ A web-based application for universities to manage and display academic calendar
 - Server: XAMPP
 
 ---
+## ⚙️ Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/academic-calendar-notice-board.git
+   cd academic-calendar-notice-board
+   ```
+2. **Import the database**
+  Open phpMyAdmin
+  Create a database named academic_portal
+  Import the provided academic_portal.sql file
+
+3. **Configure Database Connection**
+  Open config.php and ensure credentials match your local setup:
+```php
+$conn = new mysqli("localhost", "root", "", "academic_portal");
+```
+
+4. **Run the project**
+  Start your local server (e.g., XAMPP)
+  Visit: http://localhost/academic-calendar-notice-board/login.php
+---
+## 👩‍💼 Default Admin Credentials
+Email: admin@gmail.com
+Password: admin123
+---
+## 📁 Folder Structure
+academic-calendar-notice-board/
+│
+├── config.php
+├── login.php
+├── register.php
+├── dashboard.php
+├── calendar.php
+├── notices.php
+├── users.php
+├── logout.php
+├── style.css
+├── upload/         ← Notice attachments
+└── academic_portal.sql
+---
+##🧑‍💻 Credits
+Developed by:
+IT Undergraduate Students (Group 10 - 2021/2022 Batch)
+University of Vavuniya
+For academic and educational purposes.
