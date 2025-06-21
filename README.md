@@ -1,5 +1,5 @@
 # 🎓 Academic_Portal
-## 🎓 Academic Calendar and Notice Board System
+### 🎓 Academic Calendar and Notice Board System
 
 A web-based application for universities to manage and display academic calendars, publish notices, and provide a centralized dashboard for students, lecturers, and administrators.
 
