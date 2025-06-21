@@ -56,11 +56,14 @@ $conn = new mysqli("localhost", "root", "", "academic_portal");
   Start your local server (e.g., XAMPP)
   Visit: http://localhost/academic-calendar-notice-board/login.php
 ---
-## 👩‍💼 Default Admin Credentials
-Email: admin@gmail.com
+
+## 👩‍💼Default Admin Credentials
+Email: admin@gmail.com <br>
 Password: admin123
+
 ---
 ## 📁 Folder Structure
+
 academic-calendar-notice-board/
 │
 ├── config.php
