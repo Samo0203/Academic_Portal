@@ -77,8 +77,10 @@ academic-calendar-notice-board/
 ├── style.css
 ├── upload/         ← Notice attachments
 └── academic_portal.sql
+
 ---
-##🧑‍💻 Credits
+## 🧑‍💻 Credits
+
 Developed by:
 IT Undergraduate Students (Group 10 - 2021/2022 Batch)
 University of Vavuniya
