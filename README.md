@@ -26,6 +26,22 @@ A web-based application for universities to manage and display academic calendar
 
 ---
 
+## 👩‍💻 My Contributions (Backend)
+
+As the **Backend Developer**, I was responsible for:
+
+- ✅ User authentication with session handling and password hashing
+- ✅ Admin-only academic calendar generation logic using PHP `DateTime`
+- ✅ Secure notice board system with file upload support
+- ✅ Role-based access control (students, lecturers, admin)
+- ✅ Admin dashboard features: view/edit users
+- ✅ Password validation logic using PHP
+- ✅ Database connectivity and SQL query handling
+
+All backend logic was written in **pure PHP (procedural)** and secured using best practices.
+
+---
+
 ## 🛠 Technologies
 
 - Frontend: HTML, CSS, JavaScript
@@ -82,6 +98,6 @@ academic-calendar-notice-board/ <br>
 ## 🧑‍💻 Credits
 
 Developed by:
-IT Undergraduate Students (Group 10 - 2021/2022 Batch) <br>
+IT Undergraduate Students (Group 10 - 2nd year - 2025) <br>
 University of Vavuniya <br>
 For academic and educational purposes.
